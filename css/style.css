@@ -71,6 +71,7 @@ li {
 }
 
 .main__infoRight {
+	background-color: #FFF;
 	width: 63%;
 	height: auto;
 	padding: 25px;
